@@ -1,4 +1,4 @@
-# CICD_Pipeline_SpringBoot_Project
+# CI/CD_AWS_Project
 
 ## PipeLine Flow
 1.Push to Github <br>
